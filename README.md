@@ -23,4 +23,4 @@ I love to work with all variations of Technology ranging from WordPress to Shopi
 ## &#x1f4eb; Contact Me
 <img src="https://img.shields.io/badge/discord-ubergeekzone-informational?style=flat&logo=discord&logoColor=white&color=7289d9 "> <a href="https://twitter.com/intent/user?screen_name=ubergeekzone" targe="_blank"><img src="https://img.shields.io/badge/follow me on twitter-ubergeekzone-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2"></a>
 <br><br>
-Got a Project? Want to Chit Chat? Email Me at <a href="mailto:amy@downpipe.agency">amy@downpipe.agency</a>, You can use any of the social links above to contact me as well.
+Got a Project? Want to Chit Chat? Email Me at <a href="mailto:ubergeekzone@gmail.com">ubergeekzone@gmail.com</a>, You can use any of the social links above to contact me as well.
