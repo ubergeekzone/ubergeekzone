@@ -15,7 +15,7 @@ I am Located in the 412, Pittsburgh PA, and am in EST Timezone. I have worked re
 I am honest, self-taught and I have a strong work ethic. My professional web career started because I was intrigued by a commodore 64 when I was a child. I love a good challenge. The harder it is to figure something out, only makes me want to figure it out more. I am also into race cars and automotive in general.
 
 ## &#128187; What I am Doing These Days
-Freelance WordPress Expert at <a href="https://downpipe.agency" target="_blank">DownPipe</a>, Web Engineer at <a href="https://humanmade.com/" target="_blank">Human Made</a> & <a href="https://www.altis-dxp.com/" target="_blank">Altis DXP</a>. View my LinkedIn for my work history to see other great companies and professionals I have worked with. Want to see some of my past website work? Check out my <a href="https://dribbble.com/ubergeekzone" target="_blank">Dribble Profile</a>.
+Freelance WordPress Expert at <a href="https://downpipe.agency" target="_blank">DownPipe</a>. View my LinkedIn for my work history to see other great companies and professionals I have worked with. Want to see some of my past website work? Check out my <a href="https://dribbble.com/ubergeekzone" target="_blank">Dribble Profile</a>.
 
 ## Technology I &#x1f49f; Working With
 I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations. But, I am a Shopify partner and work with Drupal from time to time as well. Docker and VS Code ROCK!!!
