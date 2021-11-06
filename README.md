@@ -2,7 +2,6 @@
 
 # Hello, &#128075; I am Amy Bridges.
 <div align="center">
-<a href="https://downpipe.agency" target="_blank"><img src="assets/images/downpipe-icon.png" width="30"></a> &nbsp; &nbsp;
 <a href="https://dev.to/ubergeekzone" target="_blank"><img src="assets/images/dev-rainbow.png" width="30"></a> &nbsp; &nbsp;
 <a href="https://www.buymeacoffee.com/ubergeekzone" target="_blank"><img src="assets/images/buymeacoffee.png" width="30"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/ubergeekzone" target="_blank"><img src="assets/images/124021.png" width="30"></a> &nbsp; &nbsp;
