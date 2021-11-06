@@ -9,7 +9,7 @@
 </div>
 
 ## &#128103; About Me
-I am Located in the 412, Pittsburgh PA, and am in EST Timezone. I have worked remotely since 2006 mostly as a freelancer and contractor. I have been noticed as a top WordPress developer worldwide. I like to contribute to WordPress core and contribute coding time to open source projects such as Rocket Chat. I have had the opportunity to work on some really cool projects over the past years.
+I am Located in the 412, Pittsburgh PA, and am in EST Timezone. I have worked remotely since 2006 mostly as a freelancer and contractor. I have been noticed as a top WordPress developer worldwide. I like to contribute to WordPress core and contribute coding time to open source projects such as Rocket Chat. I have had the opportunity to work on some really cool projects over the past years and have worked with some well known brands such as: Team Trivia, Viceroy Hotels & Resorts, DogJoy, Eric Kenward Racing.
 <br><br>
 I am honest, self-taught and I have a strong work ethic. My professional web career started because I was intrigued by a commodore 64 when I was a child. I love a good challenge. The harder it is to figure something out, only makes me want to figure it out more. I am also into race cars and automotive in general.
 
