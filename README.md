@@ -41,7 +41,31 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 </table>
 
 ## &#x1f49f; Technology I Love Working With
+
 I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations. But, I am a Shopify partner and work with Drupal from time to time as well. Docker and VS Code ROCK!!!
+
+<table border="0">
+ <tr>
+    <td>
+      WordPress
+      <br>
+      Shopify
+      <br>
+      Trello
+      <br>
+      Git
+    </td>
+    <td>
+     Drupal
+      <br>
+      Laravel
+      <br>
+      Vue
+      <br>
+      React
+  </td>
+ </tr>
+</table>
 
 
 ## &#x1f4eb; Contact Me
