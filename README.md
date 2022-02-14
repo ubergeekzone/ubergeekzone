@@ -16,7 +16,7 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 ## &#128187; What I am Doing These Days
 <a href="https://linkedin.com/in/ubergeekzone" target="_blank">View my LinkedIn</a> for my work history to see the great companies and professionals that I have had the opportunity to work with and learn more about what my role was working with them.
 
-## Websites I Created
+## 👩‍💻 Websites I Created
 
 - https://ekracing.net
 - https://www.timsmithmd.com
@@ -27,7 +27,7 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 - https://asap411.com
 - https://www.behance.net/gallery/130938987/Team-Trivia/modules/741642833
 
-## Technology I &#x1f49f; Working With
+## &#x1f49f; Technology I Love Working With
 I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations. But, I am a Shopify partner and work with Drupal from time to time as well. Docker and VS Code ROCK!!!
 
 
