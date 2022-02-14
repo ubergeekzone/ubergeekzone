@@ -18,14 +18,27 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 
 ## 👩‍💻 Websites I Created
 
-- https://ekracing.net
-- https://www.timsmithmd.com
-- https://dogjoyranch.com
-- https://professionalformulas.com
-- https://www.wiztax.com
-- https://www.bodhisattva.com
-- https://asap411.com
-- https://www.behance.net/gallery/130938987/Team-Trivia/modules/741642833
+<table border="0">
+ <tr>
+    <td>
+      https://ekracing.net
+      <br>
+      https://www.timsmithmd.com
+      <br>
+      https://dogjoyranch.com
+      <br>
+      https://professionalformulas.com
+    </td>
+    <td>
+      https://www.wiztax.com
+      <br>
+      https://www.bodhisattva.com
+      <br>
+      https://asap411.com
+      <br>
+      https://www.behance.net/gallery/130938987/Team-Trivia/modules/741642833</td>
+ </tr>
+</table>
 
 ## &#x1f49f; Technology I Love Working With
 I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations. But, I am a Shopify partner and work with Drupal from time to time as well. Docker and VS Code ROCK!!!
