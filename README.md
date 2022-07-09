@@ -16,7 +16,7 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 ## &#128187; What I am Doing These Days
 <a href="https://linkedin.com/in/ubergeekzone" target="_blank">View my LinkedIn</a> for my work history to see the great companies and professionals that I have had the opportunity to work with and learn more about what my role was working with them.
 
-## 👩‍💻 My Top 7 Projects I Have Worked On
+## 👩‍💻 My Top 5 Projects I Have Worked On
 <table>
  <tr>
   <th width="250">Website</th>
@@ -50,23 +50,6 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
       </td>
           <td>Full Stack Web Engineer	</td>
   <td>Bodhisattva contacted me to help them maintain and scale the growth of their woocommerce-powered online store. I helped design thier website and maintain the products.</td>
- </tr>
- <tr>
-  <td>
-     <a href="https://www.hannonarmstrong.com/" target="_blank">Hannon Armstrong</a>
-  </td>
-      <td>Full Stack Web Engineer	</td>
-  <td>I helped with creating their WordPress powered website to provide information about how they invest in climate solutions that create more efficient energy for all of us.
-</td>
- </tr>
- <tr>
-  <td>
-     <a href="https://mintmassage.com/" target="_blank">Mint Massage Therapy</a>
-    </td>
-      <td>Full Stack Web Engineer	</td>
-  <td>I helped Will to create his website for Mint Massage he is a licensed and insured massage therapist with expertise in male therapeutic massage and bodywork. His technique is a focused touch combining Swedish, Deep Tissue Massage, and Thai stretching techniques.
-
-</td>
  </tr>
    <tr>
   <td>
