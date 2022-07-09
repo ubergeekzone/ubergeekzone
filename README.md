@@ -17,10 +17,10 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 <a href="https://linkedin.com/in/ubergeekzone" target="_blank">View my LinkedIn</a> for my work history to see the great companies and professionals that I have had the opportunity to work with and learn more about what my role was working with them.
 
 ## 👩‍💻 Projects I Have Worked On
-
 <table border="0">
  <tr>
     <td>
+     [Link to Google](https://www.google.com)
       https://ekracing.net
       <br>
       https://www.timsmithmd.com
