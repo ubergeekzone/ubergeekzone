@@ -67,64 +67,64 @@ I love to work with all variations of Technology ranging from WordPress to Shopi
 
 <table border="0">
   <tr>
-   <th>Technology Name</th>
+   <th>Technology</th>
    <th>Short Summary</th>
    <th>Partner</th>
-   <th>Years Of Experience</th>
+   <th>Experience</th>
   </tr>
  <tr>
   <td>WordPress</td>
   <td>Open Souce CMS</td>
   <td></td>
-  <td>10+</td>
+  <td>10+ Years</td>
  </tr>
   <tr>
   <td>WooCommerce</td>
   <td>Open Souce Ecommerce WordPress Plugin</td>
   <td></td>
-  <td>10+</td>
+  <td>10+Years </td>
  </tr>
  <tr>
   <td>Shopify</td>
   <td>SaaS Ecommerce Platform</td>
   <td>:white_check_mark:</td>
-  <td>10+</td>
+  <td>10+ Years</td>
  </tr>
 <tr>
   <td>React</td>
   <td>Open Source JavaScript library used for building reusable UI components</td>
  <td></td>
-  <td>10+</td>
+  <td>10+ Years</td>
  </tr>
  <tr>
   <td>Git</td>
   <td>Version control (VCS) system for tracking changes to projects</td>
   <td></td>
-  <td>10+</td>
+  <td>10+ Years</td>
  </tr>
  <tr>
   <td>Laravel</td>
   <td>Open Source PHP Framework</td>
   <td></td>
-  <td>7+</td>
+  <td>7+ Years</td>
  </tr>
  <tr>
   <td>Trello</td>
   <td>Visual Project Management Tool</td>
   <td></td>
-  <td>7+</td>
+  <td>7+ Years</td>
  </tr>
  <tr>
   <td>Docker</td>
   <td>Open platform for developing, shipping, and running applications</td>
   <td></td>
-  <td>7+</td>
+  <td>7+ Years</td>
  </tr>
   <tr>
   <td>VSCode</td>
   <td>Open source, lightweight but powerful source code editor</td>
    <td></td>
-  <td>5+</td>
+  <td>5+ Years</td>
  </tr>
  </table>
 
