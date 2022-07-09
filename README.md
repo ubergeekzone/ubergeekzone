@@ -16,7 +16,7 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 ## &#128187; What I am Doing These Days
 <a href="https://linkedin.com/in/ubergeekzone" target="_blank">View my LinkedIn</a> for my work history to see the great companies and professionals that I have had the opportunity to work with and learn more about what my role was working with them.
 
-## 👩‍💻 Websites I Created
+## 👩‍💻 Projects I Have Worked On
 
 <table border="0">
  <tr>
