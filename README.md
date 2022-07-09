@@ -14,7 +14,7 @@ I am Located in the 412, Pittsburgh PA, and am in EST Timezone. I have worked re
 I am honest, self-taught and I have a strong work ethic. My professional web career started because I was intrigued by a commodore 64 when I was a child. I love a good challenge. The harder it is to figure something out, only makes me want to figure it out more. I am also into race cars and automotive in general.
 
 ## &#128187; What I am Doing These Days
-<a href="https://linkedin.com/in/ubergeekzone" target="_blank">View my LinkedIn</a> for my work history to see the great companies and professionals that I have had the opportunity to work with and learn more about what my role was working with them.
+I am currently freelancing while looking for a full time role as a web engineer or project manager. You can download and view a copy of my most recent resume in PDF format <a href="https://github.com/ubergeekzone/ubergeekzone/raw/main/amy-resume-2022.pdf" target="_blank">here</a> 
 
 ## 👩‍💻 My Top 5 Projects I Have Worked On
 <table>
