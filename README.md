@@ -17,26 +17,52 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 <a href="https://linkedin.com/in/ubergeekzone" target="_blank">View my LinkedIn</a> for my work history to see the great companies and professionals that I have had the opportunity to work with and learn more about what my role was working with them.
 
 ## 👩‍💻 Projects I Have Worked On
-<table border="0">
+<table>
+ <tr>
+  <th width="250">Website</th>
+  <th width="250">Role</th>
+  <th>Short Summary</th>
+ </tr>
+  <tr>
+    <td>
+     <a href="https://thehill.com" target="_blank">The Hill</a>
+  </td>
+   <td>Front End Web Engineer</td>
+   <td>Created the CSS grid system and helped with creating the custom WordPress theme.</td>
+ </tr>
  <tr>
     <td>
-     [Link to Google](https://www.google.com)
-      https://ekracing.net
-      <br>
-      https://www.timsmithmd.com
-      <br>
-      https://dogjoyranch.com
-      <br>
-      https://professionalformulas.com
+     <a href="https://ekracing.net" target="_blank">Eric Kenward Racing</a>
+  </td>
+  <td>Full Stack Web Engineer	</td>
+  <td>I created their online Shopify powered website to help them streamline orders so they could focus on customer car builds. I helped build the product spreadsheets to mass import products and set up payment gateways to accept orders online.</td>
+ </tr>
+ <tr>
+  <td>
+     <a href="https://professionalformulas.com/" target="_blank">Professional Formulas</a>
+  </td>
+    <td>Full Stack Web Engineer	</td>
+  <td>Professional Formulas partnered with us to customize the WooCommerce Point of Sale Plugin. The POS solution out of the box did not fit their sales agent’s internal needs for phone and online orders.</td>
+ </tr>
+     <tr>
+      <td>
+     <a href="https://www.bodhisattva.com/" target="_blank">Bodhisattva</a>
+      </td>
+ </tr>
+ <tr>
+  <td>
+     <a href="https://www.hannonarmstrong.com/" target="_blank">Hannon Armstrong</a>
+  </td>
+ </tr>
+ <tr>
+  <td>
+     <a href="https://mintmassage.com/" target="_blank">Mint Massage Therapy</a>
     </td>
-    <td>
-      https://www.wiztax.com
-      <br>
-      https://www.bodhisattva.com
-      <br>
-      https://asap411.com
-      <br>
-      https://www.behance.net/gallery/130938987/Team-Trivia/modules/741642833</td>
+ </tr>
+   <tr>
+  <td>
+     <a href="https://dogjoyranch.com/" target="_blank">DogJoy</a>
+    </td>
  </tr>
 </table>
 
@@ -45,27 +71,47 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations. But, I am a Shopify partner and work with Drupal from time to time as well. Docker and VS Code ROCK!!!
 
 <table border="0">
+  <tr>
+   <th>Technology Name</th>
+   <th>Short Summary</th>
+   <th>Years Of Experience</th>
+  </tr>
  <tr>
-    <td>
-      WordPress
-      <br>
-      Shopify
-      <br>
-      Trello
-      <br>
-      Git
-    </td>
-    <td>
-     Drupal
-      <br>
-      Laravel
-      <br>
-      Vue
-      <br>
-      React
-  </td>
+  <td>WordPress</td>
+  <td>Open Souce CMS</td>
+  <td>10+</td>
  </tr>
-</table>
+  <tr>
+  <td>WooCommerce</td>
+  <td>Open Souce Ecommerce WordPress Plugin</td>
+  <td>10+</td>
+ </tr>
+ <tr>
+  <td>Shopify</td>
+  <td>SaaS Ecommerce Platform</td>
+  <td>10+</td>
+ </tr>
+<tr>
+  <td>React</td>
+  <td>Open Source JavaScript library used for building reusable UI components</td>
+  <td>10+</td>
+ </tr>
+ <tr>
+  <td>Git</td>
+  <td>Version control (VCS) system for tracking changes to projects</td>
+  <td>10+</td>
+ </tr>
+ <tr>
+  <td>Laravel</td>
+  <td>Open Source PHP Framework</td>
+  <td>7+</td>
+ </tr>
+ <tr>
+  <td>Trello</td>
+  <td>Visual Project Managemnt Tool</td>
+  <td>7+</td>
+ </tr>
+ </table>
 
 
 ## &#x1f4eb; Contact Me
