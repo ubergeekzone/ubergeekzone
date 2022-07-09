@@ -80,7 +80,7 @@ I am honest, self-taught and I have a strong work ethic. My professional web car
 
 ## &#x1f49f; Technology I Love Working With
 
-I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations. But, I am a Shopify partner and work with Drupal from time to time as well.
+I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations.
 
 <table border="0">
   <tr>
