@@ -28,7 +28,7 @@ I am currently freelancing while looking for a full time role as a web engineer 
      <a href="https://thehill.com" target="_blank">The Hill</a>
   </td>
    <td>Front End Web Engineer</td>
-   <td>Created the CSS grid system and helped with creating the custom WordPress theme.</td>
+   <td>I was part of the team that created a custom CSS grid system without use of frameworks and helped with creating the custom WordPress theme. I also helped with data mirgrations from Drupal to WordPress.</td>
  </tr>
  <tr>
     <td>
