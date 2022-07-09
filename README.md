@@ -102,6 +102,12 @@ I love to work with all variations of Technology ranging from WordPress to Shopi
   <td></td>
   <td>10+ Years</td>
  </tr>
+  <tr>
+  <td>PHP</td>
+  <td>Server side scripting language</td>
+  <td></td>
+  <td>10+ Years</td>
+ </tr>
  <tr>
   <td>Laravel</td>
   <td>Open Source PHP Framework</td>
