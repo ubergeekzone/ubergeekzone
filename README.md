@@ -9,9 +9,10 @@
 </div>
 
 ## &#128103; About Me
-I am Located in the 412, Pittsburgh PA, and am in EST Timezone. I have worked remotely since 2006 mostly as a freelancer and contractor. I have been noticed as a top WordPress developer worldwide. I like to contribute to WordPress core and contribute coding time to open source projects such as Rocket Chat. I have had the opportunity to work on some really cool projects over the past years and have worked with some well known brands such as: Team Trivia, Viceroy Hotels & Resorts, DogJoy, Eric Kenward Racing.
+
+I am located in Pittsburgh, PA on EST Timezone. Since 2006 I have been working remotely as a freelance web engineer/project manager and I specialize in WordPress, WooCommerce and Shopify. I bring 15+ years of experience in the web industry to the table with a solid work ethic to succeed.
 <br><br>
-I am honest, self-taught and I have a strong work ethic. My professional web career started because I was intrigued by a commodore 64 when I was a child. I love a good challenge. The harder it is to figure something out, only makes me want to figure it out more.
+I have worked with all types of companies from small businesses to enterprise such as WikiMedia, USA Today and The Hill. In my spare time I like to contribute to WordPress core and contribute coding time to open source projects such as Rocket Chat.
 
 ## &#128187; What I am Doing These Days
 I am currently freelancing while looking for a full time role as a web engineer or project manager. You can download and view a copy of my most recent resume in PDF format <a href="https://github.com/ubergeekzone/ubergeekzone/raw/main/amy-resume-2022.pdf" target="_blank">here</a> 
