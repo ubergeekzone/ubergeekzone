@@ -146,4 +146,4 @@ I love to work with all variations of Technology ranging from WordPress to Shopi
 ## &#x1f4eb; Contact Me
 Got a Project? Want to Chit Chat? Connect with me using one of the methods below.
 <br><br>
-<img src="https://img.shields.io/badge/discord-ubergeekzone-informational?style=flat&logo=discord&logoColor=white&color=7289d9"> <a href="https://twitter.com/intent/user?screen_name=ubergeekzone" targe="_blank"><img src="https://img.shields.io/badge/follow me on twitter-ubergeekzone-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2"></a> <a href="mailto:ubergeekzone@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/email-ubergeekzone@gmail.com-informational?style=flat&logo=mail&logoColor=white&color=blue"></a>
+<a href="https://twitter.com/intent/user?screen_name=ubergeekzone" targe="_blank"><img src="https://img.shields.io/badge/follow me on twitter-ubergeekzone-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2"></a> <a href="mailto:ubergeekzone@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/email-ubergeekzone@gmail.com-informational?style=flat&logo=mail&logoColor=white&color=blue"></a>
