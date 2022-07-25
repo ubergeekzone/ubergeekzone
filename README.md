@@ -17,7 +17,7 @@ I have worked with all types of companies from small businesses to enterprise su
 ## &#128187; What I am Doing These Days
 I am currently freelancing while looking for a full time role as a web engineer or project manager. You can download and view a copy of my most recent resume in PDF format <a href="https://github.com/ubergeekzone/ubergeekzone/raw/main/amy-resume-2022.pdf" target="_blank">here</a> 
 
-## 👩‍💻 My Top 5 Projects I Have Worked On
+## 👩‍💻 My Top 6 Projects I Have Worked On
 <table>
  <tr>
   <th width="250">Website</th>
@@ -30,6 +30,13 @@ I am currently freelancing while looking for a full time role as a web engineer 
   </td>
    <td>Front End Web Engineer</td>
    <td>I was part of the team that created a custom CSS grid system without use of frameworks and helped with creating the custom WordPress theme. I also helped with data mirgrations from Drupal to WordPress.</td>
+ </tr>
+   <tr>
+    <td>
+     <a href="https://wikimediafoundation.org/participate/unseen/" target="_blank">Wiki Unseen - Wikimedia Foundation</a>
+  </td>
+   <td>Front End Web Engineer</td>
+   <td>Created Gutenberg Blocks using React for ease of managing the Wiki Unseen page for Wikimedia Foundation.</td>
  </tr>
  <tr>
     <td>
