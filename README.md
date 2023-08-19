@@ -52,21 +52,6 @@ I am currently freelancing while looking for a full time role as a web engineer 
     <td>Full Stack Web Engineer	</td>
   <td>Professional Formulas contacted me to customize the WooCommerce Point of Sale Plugin for them. The POS solution out of the box did not fit their sales agent’s internal needs for phone and online orders.</td>
  </tr>
-     <tr>
-      <td>
-     <a href="https://www.bodhisattva.com/" target="_blank">Bodhisattva</a>
-      </td>
-          <td>Full Stack Web Engineer	</td>
-  <td>Bodhisattva contacted me to help them maintain and scale the growth of their woocommerce-powered online store. I helped design thier website and maintain the products.</td>
- </tr>
-   <tr>
-  <td>
-     <a href="https://dogjoyranch.com/" target="_blank">DogJoy</a>
-    </td>
-        <td>Full Stack Web Engineer	</td>
-  <td>I created their new website and provided them with a simple to use WordPress website that they could update themselves without having coding knowledge.
-</td>
- </tr>
 </table>
 
 ## &#x1f49f; Technology I Love Working With
