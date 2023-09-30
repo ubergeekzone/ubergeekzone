@@ -42,6 +42,6 @@ I love to work with all variations of Technology ranging from WordPress to Shopi
 
 
 ## &#x1f4eb; Contact Me
-Got a Project? Want to Chit Chat? Connect with me using one of the methods below.
+Got a Project? Want to Chit Chat? Email Me.
 <br><br>
 <a href="mailto:ubergeekzone@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/email-ubergeekzone@gmail.com-informational?style=flat&logo=mail&logoColor=white&color=blue"></a>
