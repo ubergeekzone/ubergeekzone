@@ -9,7 +9,13 @@
 
 ## &#128103; About Me
 
-Passionate Halloween enthusiast turned web developer with a knack for transforming spooky visions into digital realities. Hailing from the eerie landscapes of New Castle, PA, I merged my love for Halloween with graphic design at the age of 16, launching my career by crafting websites for industry leaders like HauntWorld. Recognized as a top WordPress developer by Codeable in 2017, I transitioned into general business web development, drawing from my diverse experiences. Throughout my career, I've had the incredible opportunity to work with top enterprise-level companies, including WikiMedia and The Hill, as well as renowned destinations such as The Palm Beaches, North Augusta, and Pebble Beach Concours d'Elegance. I am Committed to promoting Equality, Diversity, and Human Rights in all spheres of life and work.
+I got my start in computers at an early age, thanks to my trusty Commodore 64 and daisy wheel printer. By the time I was 16, I had already sold my first major website project, showcasing my tech skills and entrepreneurial spirit.
+<br><br>
+When I'm not immersed in the digital world, I indulge in my love for speed and racing. You'll often find me behind the wheel of my 1984 Lincoln Mark VII, boasting a 302 V8 engine and T5 Manual Transmission, tricked out with various performance upgrades.
+<br><br>
+My expertise with WordPress earned me recognition as a top developer by Codeable in 2017. I've had the privilege of working with industry giants like WikiMedia and The Hill, as well as contributing to prestigious projects for destinations like The Palm Beaches, North Augusta, and the Pebble Beach Concours d'Elegance.
+<br><br>
+Beyond my professional achievements, I'm deeply committed to promoting equality, diversity, and human rights in all aspects of life and work. I firmly believe in the power of inclusivity and positive change.
 
 ## &#128187; What I am Doing These Days
 
