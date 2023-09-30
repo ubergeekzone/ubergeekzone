@@ -23,78 +23,22 @@ These days, I founded a freelancing venture known as Invoate. Under this busines
 - <a href="https://www.discovercrystalriverfl.com/manatee-conservation/" target="_blank">Discover Crystal River FL Manatee Conservation</a>
 - <a href="https://salemcraft.com" target="_blank">Salem Craft</a>
 
-## &#x1f49f; Technology I Love Working With
+## &#x1f49f; My Skills
 
-I love to work with all variations of Technology ranging from WordPress to Shopify. I primarily create WordPress Websites, Themes, Plugins and Integrations.
+I love to work with all variations of Technology ranging from WordPress to Shopify, and beyond.
 
-<table border="0">
-  <tr>
-   <th>Technology</th>
-   <th>Short Summary</th>
-   <th>Partner</th>
-   <th>Experience</th>
-  </tr>
- <tr>
-  <td>WordPress</td>
-  <td>Open Souce CMS</td>
-  <td></td>
-  <td>10+ Years</td>
- </tr>
-  <tr>
-  <td>WooCommerce</td>
-  <td>Open Souce Ecommerce WordPress Plugin</td>
-  <td></td>
-  <td>10+Years </td>
- </tr>
- <tr>
-  <td>Shopify</td>
-  <td>SaaS Ecommerce Platform</td>
-  <td>:white_check_mark:</td>
-  <td>10+ Years</td>
- </tr>
-<tr>
-  <td>React</td>
-  <td>Open Source JavaScript library used for building reusable UI components</td>
- <td></td>
-  <td>10+ Years</td>
- </tr>
- <tr>
-  <td>Git</td>
-  <td>Version control (VCS) system for tracking changes to projects</td>
-  <td></td>
-  <td>10+ Years</td>
- </tr>
-  <tr>
-  <td>PHP</td>
-  <td>Server side scripting language</td>
-  <td></td>
-  <td>10+ Years</td>
- </tr>
- <tr>
-  <td>Laravel</td>
-  <td>Open Source PHP Framework</td>
-  <td></td>
-  <td>7+ Years</td>
- </tr>
- <tr>
-  <td>Trello</td>
-  <td>Visual Project Management Tool</td>
-  <td></td>
-  <td>7+ Years</td>
- </tr>
- <tr>
-  <td>Docker</td>
-  <td>Open platform for developing, shipping, and running applications</td>
-  <td></td>
-  <td>7+ Years</td>
- </tr>
-  <tr>
-  <td>VSCode</td>
-  <td>Open source, lightweight but powerful source code editor</td>
-   <td></td>
-  <td>5+ Years</td>
- </tr>
- </table>
+- Web Development: WordPress, WooCommerce, Laravel, Shopify, Vue
+- DevOps: Docker, Vagrant, AWS
+- Programming Languages: PHP, jQuery, Javascript, CSS, HTML
+- Databases: MySQL, Redis, MongoDB
+- Team Leadership
+- Client Collaboration
+- Project Management
+- Digital Marketing: SEO Optimization, Google Analytics, Tag Manager
+- Security: Security Measures Implementation
+- Collaboration Tools: Slack, Email, Video Conferencing
+- Problem-Solving
+
 
 
 ## &#x1f4eb; Contact Me
