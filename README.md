@@ -9,7 +9,7 @@
 
 ## &#128103; About Me
 
-I got my start in computers at an early age, thanks to my trusty Commodore 64 and daisy wheel printer. By the time I was 16, I had already sold my first major website project, showcasing my tech skills and entrepreneurial spirit.
+With 15 years of web development experience under my belt, I got my start in computers at an early age, thanks to my trusty Commodore 64 and daisy wheel printer. By the time I was 16, I had already sold my first major website project, showcasing my tech skills and entrepreneurial spirit.
 <br><br>
 When I'm not immersed in the digital world, I indulge in my love for speed and racing. You'll often find me behind the wheel of my 1984 Lincoln Mark VII, boasting a 302 V8 engine and T5 Manual Transmission, tricked out with various performance upgrades.
 <br><br>
