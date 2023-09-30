@@ -4,7 +4,6 @@
 <div align="center">
 <a href="https://dev.to/ubergeekzone" target="_blank"><img src="assets/images/dev-rainbow.png" width="30"></a> &nbsp; &nbsp;
 <a href="https://www.buymeacoffee.com/ubergeekzone" target="_blank"><img src="assets/images/buymeacoffee-wht.png" width="30"></a> &nbsp; &nbsp;
-<a href="https://twitter.com/ubergeekzone" target="_blank"><img src="assets/images/124021.png" width="30"></a> &nbsp; &nbsp;
 <a href="https://linkedin.com/in/ubergeekzone" target="_blank"><img src="assets/images/linkedin-icon.png" width="30"></a>
 </div>
 
@@ -16,42 +15,13 @@ Passionate Halloween enthusiast turned web developer with a knack for transformi
 
 These days, I founded a freelancing venture known as Invoate. Under this business, I offer WordPress website services and digital marketing solutions to clients. I am deeply involved in crafting and developing WordPress websites for clients and providing guidance on digital marketing strategies to bolster their online presence. I am open to full-time/contract roles.
 
-## 👩‍💻 My Top 6 Projects I Have Worked On
-<table>
- <tr>
-  <th width="250">Website</th>
-  <th width="250">Role</th>
-  <th>Short Summary</th>
- </tr>
-  <tr>
-    <td>
-     <a href="https://thehill.com" target="_blank">The Hill</a>
-  </td>
-   <td>Front End Web Engineer</td>
-   <td>I was part of the team that created a custom CSS grid system without use of frameworks and helped with creating the custom WordPress theme. I also helped with data mirgrations from Drupal to WordPress.</td>
- </tr>
-   <tr>
-    <td>
-     <a href="https://wikimediafoundation.org/participate/unseen/" target="_blank">Wiki Unseen - Wikimedia Foundation</a>
-  </td>
-   <td>Front End Web Engineer</td>
-   <td>Created Gutenberg Blocks using React for ease of managing the Wiki Unseen page for Wikimedia Foundation.</td>
- </tr>
- <tr>
-    <td>
-     <a href="https://ekracing.net" target="_blank">Eric Kenward Racing</a>
-  </td>
-  <td>Full Stack Web Engineer	</td>
-  <td>I created their online Shopify powered website to help them streamline orders so they could focus on customer car builds. I helped build the product spreadsheets to mass import products and set up payment gateways to accept orders online.</td>
- </tr>
- <tr>
-  <td>
-     <a href="https://professionalformulas.com/" target="_blank">Professional Formulas</a>
-  </td>
-    <td>Full Stack Web Engineer	</td>
-  <td>Professional Formulas contacted me to customize the WooCommerce Point of Sale Plugin for them. The POS solution out of the box did not fit their sales agent’s internal needs for phone and online orders.</td>
- </tr>
-</table>
+## 👩‍💻 My Top 5 Projects I Have Worked On
+
+- <a href="https://thehill.com" target="_blank">The Hill</a>
+- <a href="https://wikimediafoundation.org/participate/unseen/" target="_blank">Wiki Unseen - Wikimedia Foundation</a>
+- <a href="https://www.thepalmbeaches.com/" target="_blank">The Palm Beaches</a>
+- <a href="https://www.discovercrystalriverfl.com/manatee-conservation/" target="_blank">Discover Crystal River FL Manatee Conservation</a>
+- <a href="https://salemcraft.com" target="_blank">Salem Craft</a>
 
 ## &#x1f49f; Technology I Love Working With
 
@@ -130,4 +100,4 @@ I love to work with all variations of Technology ranging from WordPress to Shopi
 ## &#x1f4eb; Contact Me
 Got a Project? Want to Chit Chat? Connect with me using one of the methods below.
 <br><br>
-<a href="https://twitter.com/intent/user?screen_name=ubergeekzone" targe="_blank"><img src="https://img.shields.io/badge/follow me on twitter-ubergeekzone-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2"></a> <a href="mailto:ubergeekzone@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/email-ubergeekzone@gmail.com-informational?style=flat&logo=mail&logoColor=white&color=blue"></a>
+<a href="mailto:ubergeekzone@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/email-ubergeekzone@gmail.com-informational?style=flat&logo=mail&logoColor=white&color=blue"></a>
