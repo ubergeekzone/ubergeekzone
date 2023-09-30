@@ -13,7 +13,8 @@
 Passionate Halloween enthusiast turned web developer with a knack for transforming spooky visions into digital realities. Hailing from the eerie landscapes of New Castle, PA, I merged my love for Halloween with graphic design at the age of 16, launching my career by crafting websites for industry leaders like HauntWorld. Recognized as a top WordPress developer by Codeable in 2017, I transitioned into general business web development, drawing from my diverse experiences. Throughout my career, I've had the incredible opportunity to work with top enterprise-level companies, including WikiMedia and The Hill, as well as renowned destinations such as The Palm Beaches, North Augusta, and Pebble Beach Concours d'Elegance. I am Committed to promoting Equality, Diversity, and Human Rights in all spheres of life and work.
 
 ## &#128187; What I am Doing These Days
-I am currently freelancing while looking for a full time role as a web engineer or project manager. You can download and view a copy of my most recent resume in PDF format <a href="https://github.com/ubergeekzone/ubergeekzone/raw/main/amy-resume-2022.pdf" target="_blank">here</a> 
+
+These days, I founded a freelancing venture known as Invoate. Under this business, I offer WordPress website services and digital marketing solutions to clients. I am deeply involved in crafting and developing WordPress websites for clients and providing guidance on digital marketing strategies to bolster their online presence. I am open to full-time/contract roles.
 
 ## 👩‍💻 My Top 6 Projects I Have Worked On
 <table>
