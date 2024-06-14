@@ -19,7 +19,7 @@ Beyond my professional achievements, I'm deeply committed to promoting equality,
 
 ## &#128187; What I am Doing These Days
 
-These days, I founded a freelancing venture known as Invoate. Under this business, I offer WordPress website services and digital marketing solutions to clients. I am deeply involved in crafting and developing WordPress websites for clients and providing guidance on digital marketing strategies to bolster their online presence. I am open to full-time/contract roles.
+These days, I founded a freelancing venture known as Salem Craft. Under this business, I offer WordPress website services and digital marketing solutions to clients. I am deeply involved in crafting and developing WordPress websites for clients and providing guidance on digital marketing strategies to bolster their online presence. I am open to full-time/contract roles.
 
 ## 👩‍💻 My Top 5 Projects I Have Worked On
 
